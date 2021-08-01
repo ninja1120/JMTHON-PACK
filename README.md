@@ -8,7 +8,7 @@
 
 
 ### استخراج كود تيرمكس  ##
-[![Run on Repl.it](https://replit.com/@AhmedNaser3/code-termixninja1)](https://replit.com/@JMTHONAR/stringsession)
+[![Run on Repl.it](https://replit.com/@AhmedNaser3/code-termixninja1)](https://replit.com/@AhmedNaser3/code-termixninja1)
 - احصل على الايبي هاش والايبي ايدي من  [هـنا](https://my.telegram.org/)    
 
 ### التنصيب عبر هيروكو ##
